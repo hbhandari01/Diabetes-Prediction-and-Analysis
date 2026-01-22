@@ -39,7 +39,7 @@ Model building
 
 K-Nearest Neighbors (KNN)
 
-Model evaluation using accuracy, confusion matrix, and other metrics
+Model evaluation was done using accuracy, confusion matrix, and other metrics.
 
 📈 Results
 
