@@ -41,7 +41,7 @@ K-Nearest Neighbors (KNN)
 
 Model evaluation was done using accuracy, confusion matrix, and other metrics.
 
-📈 Results
+📈 Results:
 
 Built KNN Model to predict whether a person is diabetic or not.
 
