@@ -1,7 +1,7 @@
-# Diabetes Prediction and-Analysis
+# Diabetes Prediction and Analysis
 This project explores the Diabetes dataset using data preprocessing, exploratory data analysis (EDA), and machine learning model (KNN) to predict whether a patient has diabetes. The goal is to demonstrate end-to-end data science skills including data cleaning, visualization, and predictive modeling.
 
-📊 Dataset
+📊 Dataset:
 
 The dataset used is the Diabetes Dataset, which contains medical diagnostic measurements and an outcome variable indicating whether the patient has diabetes.
 
@@ -23,7 +23,7 @@ Age
 
 Outcome (0 = Non-Diabetic, 1 = Diabetic)
 
-## Steps Performed
+## Steps Performed:
 
 Data loading and cleaning
 
