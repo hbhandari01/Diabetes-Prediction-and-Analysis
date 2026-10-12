@@ -35,7 +35,7 @@ Feature engineering & preprocessing
 
 Model building
 
-## Model Used
+## Model Used:
 
 K-Nearest Neighbors (KNN)
 
