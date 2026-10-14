@@ -46,3 +46,7 @@ Model evaluation was done using accuracy, confusion matrix, and other metrics.
 Built KNN Model to predict whether a person is diabetic or not.
 
 Key insights were drawn about which features have the most impact on diabetes prediction.
+
+# Author
+Himanshu Bhandari
+Data Analyst
