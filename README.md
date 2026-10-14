@@ -49,4 +49,4 @@ Key insights were drawn about which features have the most impact on diabetes pr
 
 # Author
 Himanshu Bhandari
-Data Analyst
+Data Analyst & Data Science Enthusiast
